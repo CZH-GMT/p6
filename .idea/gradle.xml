@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/a" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/b" />
+            <option value="$PROJECT_DIR$/ceshitiku4" />
+            <option value="$PROJECT_DIR$/ceshitikusan" />
+            <option value="$PROJECT_DIR$/ceyan" />
+            <option value="$PROJECT_DIR$/day13" />
+            <option value="$PROJECT_DIR$/day13zhishi" />
+            <option value="$PROJECT_DIR$/day14" />
+            <option value="$PROJECT_DIR$/day1_2" />
+            <option value="$PROJECT_DIR$/day1_3" />
+            <option value="$PROJECT_DIR$/day1_4" />
+            <option value="$PROJECT_DIR$/day1_5" />
+            <option value="$PROJECT_DIR$/day2" />
+            <option value="$PROJECT_DIR$/di2tao" />
+            <option value="$PROJECT_DIR$/eventbus" />
+            <option value="$PROJECT_DIR$/g" />
+            <option value="$PROJECT_DIR$/gouwucheanli" />
+            <option value="$PROJECT_DIR$/green" />
+            <option value="$PROJECT_DIR$/green2" />
+            <option value="$PROJECT_DIR$/green3" />
+            <option value="$PROJECT_DIR$/green4" />
+            <option value="$PROJECT_DIR$/greendaoshengji" />
+            <option value="$PROJECT_DIR$/guangbo" />
+            <option value="$PROJECT_DIR$/jishi" />
+            <option value="$PROJECT_DIR$/kadianxiazai" />
+            <option value="$PROJECT_DIR$/kaolianp7" />
+            <option value="$PROJECT_DIR$/mp4" />
+            <option value="$PROJECT_DIR$/mp42" />
+            <option value="$PROJECT_DIR$/mp43" />
+            <option value="$PROJECT_DIR$/mvp" />
+            <option value="$PROJECT_DIR$/mvpliebiao" />
+            <option value="$PROJECT_DIR$/mvpliebiao2" />
+            <option value="$PROJECT_DIR$/mvpliebiao3" />
+            <option value="$PROJECT_DIR$/mvpliebiao4" />
+            <option value="$PROJECT_DIR$/mvpliebiao5" />
+            <option value="$PROJECT_DIR$/mvpshujuku" />
+            <option value="$PROJECT_DIR$/mvpwangluo" />
+            <option value="$PROJECT_DIR$/okshangchuan1" />
+            <option value="$PROJECT_DIR$/okshangchuan2" />
+            <option value="$PROJECT_DIR$/okshangchuan3" />
+            <option value="$PROJECT_DIR$/p62" />
+            <option value="$PROJECT_DIR$/qimoa" />
+            <option value="$PROJECT_DIR$/qimob" />
+            <option value="$PROJECT_DIR$/qimoc" />
+            <option value="$PROJECT_DIR$/qimoceshi" />
+            <option value="$PROJECT_DIR$/qizhong" />
+            <option value="$PROJECT_DIR$/qizhong1" />
+            <option value="$PROJECT_DIR$/qizhong2" />
+            <option value="$PROJECT_DIR$/qizhongtiiku1" />
+            <option value="$PROJECT_DIR$/qizhongtiku2" />
+            <option value="$PROJECT_DIR$/qizhongtiku3" />
+            <option value="$PROJECT_DIR$/qizhongtiku4" />
+            <option value="$PROJECT_DIR$/retrofit" />
+            <option value="$PROJECT_DIR$/retrofit2" />
+            <option value="$PROJECT_DIR$/retrofit3" />
+            <option value="$PROJECT_DIR$/retrofit4" />
+            <option value="$PROJECT_DIR$/retrofit5" />
+            <option value="$PROJECT_DIR$/retrofitrecyclerview" />
+            <option value="$PROJECT_DIR$/retrofitshangchuan1" />
+            <option value="$PROJECT_DIR$/retrofitshangchuan2" />
+            <option value="$PROJECT_DIR$/rxjava" />
+            <option value="$PROJECT_DIR$/rxjavaheretrofit" />
+            <option value="$PROJECT_DIR$/service" />
+            <option value="$PROJECT_DIR$/shujukushoucang" />
+            <option value="$PROJECT_DIR$/shujukushoucang2" />
+            <option value="$PROJECT_DIR$/shujukushoucang3" />
+            <option value="$PROJECT_DIR$/ti1" />
+            <option value="$PROJECT_DIR$/ti2" />
+            <option value="$PROJECT_DIR$/tikuqimo2" />
+            <option value="$PROJECT_DIR$/tqimotiku1" />
+            <option value="$PROJECT_DIR$/xiazai" />
+            <option value="$PROJECT_DIR$/xiazai1" />
+            <option value="$PROJECT_DIR$/xiazai2" />
+            <option value="$PROJECT_DIR$/xiazai3" />
+            <option value="$PROJECT_DIR$/zhouce" />
+            <option value="$PROJECT_DIR$/zhourizuoye" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
